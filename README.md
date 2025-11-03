@@ -18,12 +18,6 @@ O script `notebook.ipynb` carrega os 32 pontos de dados e gera o seguinte gráfi
 
 A partir deste gráfico, podemos deduzir que: **A Relação é Não-Linear:** As 4 "curvas" de temperatura não são perfeitamente paralelas. A distância entre elas (o "gap" de concentração) muda conforme a densidade (e, portanto, a concentração) muda.
 
-## Próximos Passos (v2.0)
-
-Esta análise v1.0 prova a necessidade de uma abordagem mais sofisticada. Os próximos passos para este projeto são:
-
-* **v2.0 (Simulação):** Investigar a "causa" da instabilidade em altas temperaturas, modelando a Pressão de Vapor (Equilíbrio Líquido-Vapor) e, eventualmente, utilizando simulações de Dinâmica Molecular (MD) para entender as interações em nível atômico e comparar com os dados atuais.
-
 ## Apêndice: Script para Reprodução no Jupyter_Notebook
 
 ```python
@@ -66,3 +60,9 @@ plt.savefig('amonia_scatter_plot_v1.png')
 plt.show()
 
 # --- FIM DO SCRIPT ---
+
+## Próximos Passos (v2.0)
+
+Esta análise v1.0 prova a necessidade de uma abordagem mais sofisticada. Os próximos passos para este projeto são:
+
+* **v2.0 (Simulação):** Investigar a "causa" da instabilidade em altas temperaturas, modelando a Pressão de Vapor (Equilíbrio Líquido-Vapor) e, eventualmente, utilizando simulações de Dinâmica Molecular (MD) para entender as interações em nível atômico e comparar com os dados atuais.
