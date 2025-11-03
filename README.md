@@ -1,4 +1,4 @@
-# NH₄OH: Análise de Dados de Laboratório em Python
+# Não-Linearidade na Concentração de Hidróxido de Amônio
 
 Este projeto é uma análise exploratória de dados (EDA) físico-químicos da relação entre **Temperatura** e **Densidade** para determinação da **Concentração** de soluções de Hidróxido de Amônio (NH₄OH).
 
