@@ -26,6 +26,7 @@ Esta análise v1.0 prova a necessidade de uma abordagem mais sofisticada. Os pr�
 
 ## Apêndice: Script para Reprodução no Jupyter_Notebook
 
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -63,3 +64,5 @@ plt.gca().invert_xaxis()
 plt.tight_layout()
 plt.savefig('amonia_scatter_plot_v1.png')
 plt.show()
+
+# --- FIM DO SCRIPT ---
