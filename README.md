@@ -1,4 +1,4 @@
-# Não-Linearidade na Concentração de Hidróxido de Amônio
+# Análise de Dados com Hidróxido de Amônio (NH₄OH)
 
 Este projeto é uma análise exploratória de dados (EDA) físico-químicos da relação entre **Temperatura** e **Densidade** para determinação da **Concentração** de soluções de Hidróxido de Amônio (NH₄OH).
 
